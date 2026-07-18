@@ -75,7 +75,11 @@ Four security roles implemented:
 - **VIP** — Filtered to VIP segment (~177M revenue)
 
 ## 📸 Dashboard Screenshots
-[Add your 5 page screenshots here]
+![Executive Overview](Overview.png)
+![Sales & Revenue](Sales%20%26%20Revenue.png)
+![Customer Intelligence](Customer%20Intelligence.png)
+![Product Performance](Product%20Performance.png)
+![Logistics & Delivery](Logistics%20%26%20Delivery.png)
 
 ## 🚀 How To Use
 1. Download the .pbix file
